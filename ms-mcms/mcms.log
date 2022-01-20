@@ -1,0 +1,116 @@
+2022-01-20 17:03:04.581  INFO 25284 --- [main] n.m.MSApplication                        : Starting MSApplication on DESKTOP-HD9M1EM with PID 25284 (E:\opensource_java\MCMS_ALL\ms-mcms\target\classes started by siloia in E:\opensource_java\MCMS_ALL\ms-mcms)
+2022-01-20 17:03:04.590 DEBUG 25284 --- [main] n.m.MSApplication                        : Running with Spring Boot v2.2.13.RELEASE, Spring v5.2.12.RELEASE
+2022-01-20 17:03:04.591  INFO 25284 --- [main] n.m.MSApplication                        : The following profiles are active: dev
+2022-01-20 17:03:06.145  INFO 25284 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-20 17:03:06.149  INFO 25284 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Elasticsearch repositories in DEFAULT mode.
+2022-01-20 17:03:06.250  INFO 25284 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 91ms. Found 0 Elasticsearch repository interfaces.
+2022-01-20 17:03:06.255  INFO 25284 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-20 17:03:06.255  INFO 25284 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Reactive Elasticsearch repositories in DEFAULT mode.
+2022-01-20 17:03:06.267  INFO 25284 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 11ms. Found 0 Reactive Elasticsearch repository interfaces.
+2022-01-20 17:03:06.282  INFO 25284 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-20 17:03:06.284  INFO 25284 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-20 17:03:06.303  INFO 25284 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2022-01-20 17:03:07.152  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'shiroConfig' of type [net.mingsoft.config.ShiroConfig$$EnhancerBySpringCGLIB$$3a73f626] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:07.207  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'webConfig' of type [net.mingsoft.config.WebConfig$$EnhancerBySpringCGLIB$$8574bf29] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:07.694  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'mybatis-plus-com.baomidou.mybatisplus.autoconfigure.MybatisPlusProperties' of type [com.baomidou.mybatisplus.autoconfigure.MybatisPlusProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:07.708  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'configurationCustomizer' of type [net.mingsoft.config.WebConfig$$Lambda$322/796969849] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:07.713  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'com.baomidou.mybatisplus.autoconfigure.MybatisPlusAutoConfiguration' of type [com.baomidou.mybatisplus.autoconfigure.MybatisPlusAutoConfiguration$$EnhancerBySpringCGLIB$$42aad476] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:07.717  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure' of type [com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure$$EnhancerBySpringCGLIB$$1e8e5d4e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:07.720  INFO 25284 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-01-20 17:03:07.796  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:07.799  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'com.alibaba.druid.spring.boot.autoconfigure.stat.DruidFilterConfiguration' of type [com.alibaba.druid.spring.boot.autoconfigure.stat.DruidFilterConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:07.823  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'statFilter' of type [com.alibaba.druid.filter.stat.StatFilter] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:07.920  INFO 25284 --- [main] c.a.d.p.DruidDataSource                  : {dataSource-1} inited
+2022-01-20 17:03:07.920  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'dataSource' of type [com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceWrapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:08.264  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionFactory' of type [org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:08.270  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionTemplate' of type [org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:08.426  WARN 25284 --- [main] c.b.m.c.i.AbstractMethod                 : [net.mingsoft.basic.dao.IManagerDao.delete] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Delete]
+2022-01-20 17:03:08.486  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'IManagerDao' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:08.489  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'IManagerDao' of type [com.sun.proxy.$Proxy91] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:08.491  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'managerBiz' of type [net.mingsoft.basic.biz.impl.ManagerBizImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:08.571  WARN 25284 --- [main] c.b.m.c.i.AbstractMethod                 : [net.mingsoft.basic.dao.IModelDao.delete] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Delete]
+2022-01-20 17:03:08.624  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'IModelDao' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:08.626  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'IModelDao' of type [com.sun.proxy.$Proxy93] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:08.649  WARN 25284 --- [main] c.b.m.c.m.TableInfoHelper                : Can not find table primary key in Class: "net.mingsoft.basic.entity.RoleModelEntity".
+2022-01-20 17:03:08.691  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'IRoleModelDao' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:08.693  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'IRoleModelDao' of type [com.sun.proxy.$Proxy94] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:08.696  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'roleModelBiz' of type [net.mingsoft.basic.biz.impl.RoleModelBizImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:08.698  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'modelBiz' of type [net.mingsoft.basic.biz.impl.ModelBizImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:08.699  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'customRealm' of type [net.mingsoft.basic.realm.ManagerAuthRealm] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:08.717  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'securityManager' of type [org.apache.shiro.web.mgt.DefaultWebSecurityManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:08.814  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'authorizationAttributeSourceAdvisor' of type [org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:08.819  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'getAuthorizationAttributeSourceAdvisor' of type [org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:09.391  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'druidConfig' of type [net.mingsoft.config.DruidConfig$$EnhancerBySpringCGLIB$$8f1a5997] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:09.406  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'druidStatPointcut' of type [org.springframework.aop.support.JdkRegexpMethodPointcut] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:09.414  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'druidStatInterceptor' of type [com.alibaba.druid.support.spring.stat.DruidStatInterceptor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:09.415  INFO 25284 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'druidStatAdvisor' of type [org.springframework.aop.support.DefaultPointcutAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-20 17:03:10.094  INFO 25284 --- [main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8081 (http)
+2022-01-20 17:03:10.116  INFO 25284 --- [main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2022-01-20 17:03:10.116  INFO 25284 --- [main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2022-01-20 17:03:10.367  INFO 25284 --- [main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2022-01-20 17:03:10.368  INFO 25284 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 5696 ms
+2022-01-20 17:03:10.566  INFO 25284 --- [main] o.s.b.w.s.RegistrationBean               : Filter webStatFilter was not registered (possibly already registered?)
+2022-01-20 17:03:10.613 DEBUG 25284 --- [main] n.m.b.f.XSSEscapeFilter                  : xss filter init
+2022-01-20 17:03:10.727  WARN 25284 --- [main] n.s.e.c.ConfigurationFactory             : No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/siloia/.m2/repository/net/sf/ehcache/ehcache/2.10.6/ehcache-2.10.6.jar!/ehcache-failsafe.xml
+2022-01-20 17:03:11.347  WARN 25284 --- [main] c.b.m.c.i.AbstractMethod                 : [net.mingsoft.cms.dao.ICategoryDao.delete] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Delete]
+2022-01-20 17:03:11.477  WARN 25284 --- [main] c.b.m.c.i.AbstractMethod                 : [net.mingsoft.cms.dao.IContentDao.delete] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Delete]
+2022-01-20 17:03:11.814  WARN 25284 --- [main] c.b.m.c.i.AbstractMethod                 : [net.mingsoft.mdiy.dao.IModelDao.delete] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Delete]
+2022-01-20 17:03:12.201  WARN 25284 --- [main] c.b.m.c.t.ReflectionKit                  : Warn: HistoryLogBizImpl's superclass not ParameterizedType
+2022-01-20 17:03:12.201  WARN 25284 --- [main] c.b.m.c.t.ReflectionKit                  : Warn: HistoryLogBizImpl's superclass not ParameterizedType
+2022-01-20 17:03:12.400  WARN 25284 --- [main] c.b.m.c.t.ReflectionKit                  : Warn: PageBizImpl's superclass not ParameterizedType
+2022-01-20 17:03:12.400  WARN 25284 --- [main] c.b.m.c.t.ReflectionKit                  : Warn: PageBizImpl's superclass not ParameterizedType
+2022-01-20 17:03:13.223  WARN 25284 --- [main] c.b.m.c.i.AbstractMethod                 : [net.mingsoft.basic.dao.ILogDao.delete] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Delete]
+2022-01-20 17:03:13.564  WARN 25284 --- [main] c.b.m.c.i.AbstractMethod                 : [net.mingsoft.basic.dao.IRoleDao.delete] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Delete]
+2022-01-20 17:03:13.791  WARN 25284 --- [main] c.b.m.c.t.ReflectionKit                  : Warn: CityBizImpl's superclass not ParameterizedType
+2022-01-20 17:03:13.791  WARN 25284 --- [main] c.b.m.c.t.ReflectionKit                  : Warn: CityBizImpl's superclass not ParameterizedType
+2022-01-20 17:03:14.330  WARN 25284 --- [main] c.b.m.c.t.ReflectionKit                  : Warn: DictBizImpl's superclass not ParameterizedType
+2022-01-20 17:03:14.330  WARN 25284 --- [main] c.b.m.c.t.ReflectionKit                  : Warn: DictBizImpl's superclass not ParameterizedType
+2022-01-20 17:03:14.547  WARN 25284 --- [main] c.b.m.c.t.ReflectionKit                  : Warn: ModelDataImpl's superclass not ParameterizedType
+2022-01-20 17:03:14.547  WARN 25284 --- [main] c.b.m.c.t.ReflectionKit                  : Warn: ModelDataImpl's superclass not ParameterizedType
+2022-01-20 17:03:14.790  WARN 25284 --- [main] c.b.m.c.t.ReflectionKit                  : Warn: PostBizImpl's superclass not ParameterizedType
+2022-01-20 17:03:14.790  WARN 25284 --- [main] c.b.m.c.t.ReflectionKit                  : Warn: PostBizImpl's superclass not ParameterizedType
+2022-01-20 17:03:14.978  WARN 25284 --- [main] c.b.m.c.i.AbstractMethod                 : [net.mingsoft.mdiy.dao.ITagDao.delete] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Delete]
+2022-01-20 17:03:16.186  INFO 25284 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-01-20 17:03:16.268  INFO 25284 --- [main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService
+2022-01-20 17:03:16.270  INFO 25284 --- [main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-20 17:03:18.907  INFO 25284 --- [main] o.q.i.StdSchedulerFactory                : Using default implementation for ThreadExecutor
+2022-01-20 17:03:18.942  INFO 25284 --- [main] o.q.c.SchedulerSignalerImpl              : Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-01-20 17:03:18.942  INFO 25284 --- [main] o.q.c.QuartzScheduler                    : Quartz Scheduler v.2.3.2 created.
+2022-01-20 17:03:18.944  INFO 25284 --- [main] o.q.s.RAMJobStore                        : RAMJobStore initialized.
+2022-01-20 17:03:18.945  INFO 25284 --- [main] o.q.c.QuartzScheduler                    : Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2022-01-20 17:03:18.946  INFO 25284 --- [main] o.q.i.StdSchedulerFactory                : Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2022-01-20 17:03:18.946  INFO 25284 --- [main] o.q.i.StdSchedulerFactory                : Quartz scheduler version: 2.3.2
+2022-01-20 17:03:18.946  INFO 25284 --- [main] o.q.c.QuartzScheduler                    : JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@497fd334
+2022-01-20 17:03:19.219  INFO 25284 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-01-20 17:03:19.249  INFO 25284 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-01-20 17:03:19.316  INFO 25284 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-01-20 17:03:19.562  INFO 25284 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: getUsingGET_1
+2022-01-20 17:03:19.566  WARN 25284 --- [main] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType org.springframework.ui.ModelMap
+2022-01-20 17:03:19.572  INFO 25284 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: listUsingGET_1
+2022-01-20 17:03:19.650  INFO 25284 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: getUsingGET_2
+2022-01-20 17:03:19.655  INFO 25284 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: getUsingGET_3
+2022-01-20 17:03:19.662  INFO 25284 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: listUsingPOST_1
+2022-01-20 17:03:19.666  INFO 25284 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: listUsingGET_2
+2022-01-20 17:03:19.712  INFO 25284 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: getUsingGET_4
+2022-01-20 17:03:19.726  INFO 25284 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: indexUsingGET_1
+2022-01-20 17:03:19.729  INFO 25284 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: indexUsingGET_2
+2022-01-20 17:03:19.730  INFO 25284 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: listUsingGET_3
+2022-01-20 17:03:19.759  INFO 25284 --- [main] o.s.s.q.SchedulerFactoryBean             : Starting Quartz Scheduler now
+2022-01-20 17:03:19.759  INFO 25284 --- [main] o.q.c.QuartzScheduler                    : Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2022-01-20 17:03:19.814  INFO 25284 --- [main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8081 (http) with context path ''
+2022-01-20 17:03:19.818  INFO 25284 --- [main] n.m.MSApplication                        : Started MSApplication in 16.24 seconds (JVM running for 20.383)
+2022-01-20 17:03:27.983  INFO 25284 --- [http-nio-8081-exec-2] o.a.c.c.C.[.[.[/]                        : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-20 17:03:27.983  INFO 25284 --- [http-nio-8081-exec-2] o.s.w.s.DispatcherServlet                : Initializing Servlet 'dispatcherServlet'
+2022-01-20 17:03:28.001  INFO 25284 --- [http-nio-8081-exec-2] o.s.w.s.DispatcherServlet                : Completed initialization in 18 ms
+2022-01-20 17:03:28.423 DEBUG 25284 --- [http-nio-8081-exec-2] n.m.b.d.IAppDao                          : Cache Hit Ratio [net.mingsoft.basic.dao.IAppDao]: 0.0
+2022-01-20 17:03:28.432 DEBUG 25284 --- [http-nio-8081-exec-2] n.m.b.d.I.selectOne                      : ==>  Preparing: SELECT id,app_state,app_name,app_description,app_logo,app_style,app_keyword,app_copyright,app_dir,app_url,app_datetime,app_pay_date,app_pay,create_by,create_date,del,update_by,update_date FROM app 
+2022-01-20 17:03:28.466 DEBUG 25284 --- [http-nio-8081-exec-2] n.m.b.d.I.selectOne                      : ==> Parameters: 
+2022-01-20 17:03:28.500 DEBUG 25284 --- [http-nio-8081-exec-2] n.m.b.d.I.selectOne                      : <==      Total: 1
+2022-01-20 17:03:28.510 DEBUG 25284 --- [http-nio-8081-exec-2] n.m.b.u.BasicUtil                        : server:localhost,basePath:http://localhost:8081/

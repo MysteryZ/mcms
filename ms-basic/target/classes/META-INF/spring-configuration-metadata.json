@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "ms.upload.multipart",
+      "type": "net.mingsoft.config.MultipartProperties",
+      "sourceType": "net.mingsoft.config.MultipartProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "ms.upload.multipart.default-encoding",
+      "type": "java.lang.String",
+      "sourceType": "net.mingsoft.config.MultipartProperties"
+    },
+    {
+      "name": "ms.upload.multipart.max-file-size",
+      "type": "java.lang.Long",
+      "sourceType": "net.mingsoft.config.MultipartProperties"
+    },
+    {
+      "name": "ms.upload.multipart.max-in-memory-size",
+      "type": "java.lang.Integer",
+      "sourceType": "net.mingsoft.config.MultipartProperties"
+    },
+    {
+      "name": "ms.upload.multipart.max-request-size",
+      "type": "java.lang.Long",
+      "sourceType": "net.mingsoft.config.MultipartProperties"
+    },
+    {
+      "name": "ms.upload.multipart.resolve-lazily",
+      "type": "java.lang.Boolean",
+      "sourceType": "net.mingsoft.config.MultipartProperties"
+    },
+    {
+      "name": "ms.upload.multipart.upload-temp-dir",
+      "type": "org.springframework.core.io.Resource",
+      "sourceType": "net.mingsoft.config.MultipartProperties"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,53 @@
+scalable 可扩展的，可扩张的
+contextual 上下文的，与语境相关的
+extensive 广阔的，广泛的，大量的
+exhibit 表现出，炫耀，卖弄，展出，展品，展览
+through the lens 透过镜头
+unique opportunity 唯一的机会，难得的机会
+the bulk of 大量，大多数（the bulk of population 大多数人口）
+discarding 抛弃，丢弃
+additionally 此外，另外，更加
+specified 规定的，详细说明的
+credit 信用，信贷，赊购，赞扬，学分...
+smelly 有难闻气味的，发臭的
+stumble upon 偶然发现，邂逅（某人，某物）
+density 稠密，密集，密度
+approach 靠近，临近，交谈，方法，态度，要求，通道
+originate from 源于，发自，起源于
+qualifier 修饰语，资格赛，预选赛，取得资格的人
+high-yield 高产，丰产
+hazardous 危险的，有害的，碰运气的
+recurision 递归，循环，递归式
+triage 分类，伤员验伤分类
+manipulation 操纵，推拿，控制，使用，伪造篡改
+instantiated 实例化，具体化
+instantiate 示例，举例说明
+trivially 无能地，平凡地，琐细地
+refine 精炼，提纯，改进，改善
+arbitrarily 随意地，任意地，武断地
+transitively  及物的，过渡的，可迁的
+summed up 概括，归纳，总结
+circumvent 包围，避免，欺诈，用计谋战胜
+account for 对...负有责任，对...做出解释，说明...的原因，导致
+abstraction 抽象，提取，抽象概念，空想
+other than 除了，不同于
+in terms of 依据，按照，在...方面
+addressed 解决，处理，提出，向...讲话
+straightforward 简单的，易懂的，诚实坦率的，直截了当地，坦率地
+in addition 此外，另外
+nutshell 坚果壳，小容器，概况
+Kloc 每千行代码
+mechanism 机制，方法，途径，机械装置
+asynchronous 异步的，不同时的，不同期的
+architecture 建筑设计，建筑风格，计算机的体系结构
+disjoint 打散，拆开，使关节脱离，不连贯的，不相交的
+accelerate 加快，促进，加速
+leverageing 杠杆作用，举债经营，利用贷款进行投机，扩充
+semantic 语义的，语义学的
+initiative 措施，倡议，主动性
+deprecated  强烈反对，抨击，对...表示不赞成，弃用
+premises 前提，经营场址，预述
+proprietary 所有的，所有权的，所有权，所有人
+memory intensive 内存密集型
+prioritize 优先考虑，优先处理
+compilation 编纂，汇编

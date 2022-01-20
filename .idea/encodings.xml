@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ms-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-basic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-basic/src/main/webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-mcms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-mcms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-mcms/src/main/webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-mdiy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-mdiy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-mdiy/src/main/webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-ueditor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shiro-freemarker-tags/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/store-client/src/main/java" charset="UTF-8" />
+  </component>
+</project>

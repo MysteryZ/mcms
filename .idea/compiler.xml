@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ms-mcms" />
+        <module name="ms-base" />
+        <module name="ms-ueditor" />
+        <module name="store-client" />
+        <module name="ms-basic" />
+        <module name="shiro-freemarker-tags" />
+        <module name="ms-mdiy" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ms-base" options="-parameters -verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_291/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_291/jre/lib/jce.jar&quot;" />
+      <module name="ms-basic" options="-parameters -verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_291/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_291/jre/lib/jce.jar&quot;" />
+      <module name="ms-mcms" options="-parameters -verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_291/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_291/jre/lib/jce.jar&quot;" />
+      <module name="ms-mdiy" options="-parameters -verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_291/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_291/jre/lib/jce.jar&quot;" />
+      <module name="ms-ueditor" options="-parameters" />
+      <module name="shiro-freemarker-tags" options="-parameters" />
+      <module name="store-client" options="-parameters -verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_291/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_291/jre/lib/jce.jar&quot;" />
+    </option>
+  </component>
+</project>
